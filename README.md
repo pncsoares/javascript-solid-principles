@@ -36,15 +36,18 @@ Depend upon abstractions, not concretions.
 
 | Principle | Information | Technologies |
 | -- | -- | -- |
-| Single responsibility | [Go to detail 📄](./SingleResponsiblityPrinciple/README.md) | JS |
-| Open–Closed | [Go to detail 📄](./OpenClosedPrinciple/README.md) | JS |
-| Liskov substitution | [Go to detail 📄](./LiskovSubstitutionPrinciple/README.md) | JS |
+| Single responsibility | [📄](./SingleResponsiblityPrinciple/README.md) | JS |
+| Open–Closed | [📄](./OpenClosedPrinciple/README.md) | JS |
+| Liskov substitution | [📄](./LiskovSubstitutionPrinciple/README.md) | JS |
+| Interface segregation | [📄](./InterfaceSegregationPrinciple/README.md) | TS |
 
 # Technologies
 
-- [JavaScript](https://www.javascript.com)
-<!-- - [DotNet](https://docs.microsoft.com/en-gb/aspnet/core/?WT.mc_id=dotnet-35129-website&view=aspnetcore-6.0) -->
-<!-- - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) -->
+| Technology | Short name | Documentation |  
+| -- | -- | -- |
+| JavaScript | JS | [📎](https://www.javascript.com) | 
+| TypeScript | TS | [📎](https://www.typescriptlang.org/docs/) |
+<!-- | C Sharp | C# | [📎](https://docs.microsoft.com/en-us/dotnet/csharp/) | -->
 
 # Setup
 
