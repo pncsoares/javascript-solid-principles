@@ -34,6 +34,12 @@ Depend upon abstractions, not concretions.
 
 [👆 Source](https://en.wikipedia.org/wiki/SOLID)
 
+## Code examples
+
+| Principle | Information |
+| -- | -- |
+| Single responsibility | [Go to detail 📄](./SingleResponsiblityPrinciple/README.md) |
+
 # Setup
 
 ## Clone repository
