@@ -40,6 +40,7 @@ Depend upon abstractions, not concretions.
 | -- | -- |
 | Single responsibility | [Go to detail 📄](./SingleResponsiblityPrinciple/README.md) |
 | Open–Closed | [Go to detail 📄](./OpenClosedPrinciple/README.md) |
+| Liskov substitution | [Go to detail 📄](./LiskovSubstitutionPrinciple/README.md) |
 
 # Setup
 
