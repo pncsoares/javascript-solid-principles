@@ -1,8 +1,6 @@
-# SOLID principles in JavaScript
-
-The SOLID principles written in JavaScript.
-
 # SOLID principles
+
+> This repository contains the SOLID principles details and code examples written in various programming languages.
 
 ## Definition
 
@@ -36,11 +34,17 @@ Depend upon abstractions, not concretions.
 
 ## Code examples
 
-| Principle | Information |
-| -- | -- |
-| Single responsibility | [Go to detail 📄](./SingleResponsiblityPrinciple/README.md) |
-| Open–Closed | [Go to detail 📄](./OpenClosedPrinciple/README.md) |
-| Liskov substitution | [Go to detail 📄](./LiskovSubstitutionPrinciple/README.md) |
+| Principle | Information | Technologies |
+| -- | -- | -- |
+| Single responsibility | [Go to detail 📄](./SingleResponsiblityPrinciple/README.md) | JS |
+| Open–Closed | [Go to detail 📄](./OpenClosedPrinciple/README.md) | JS |
+| Liskov substitution | [Go to detail 📄](./LiskovSubstitutionPrinciple/README.md) | JS |
+
+# Technologies
+
+- [JavaScript](https://www.javascript.com)
+<!-- - [DotNet](https://docs.microsoft.com/en-gb/aspnet/core/?WT.mc_id=dotnet-35129-website&view=aspnetcore-6.0) -->
+<!-- - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) -->
 
 # Setup
 
@@ -55,13 +59,13 @@ Create and go to the directory where you want to place the repository
 Clone the project
 
 ```bash
-  git clone https://github.com/pncsoares/solid-principles-in-javascript.git
+  git clone https://github.com/pncsoares/solid-principles.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd solid-principles-in-javascript
+  cd solid-principles
 ```
 
 Open in Visual Studio Code
