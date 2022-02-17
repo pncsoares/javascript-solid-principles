@@ -11,6 +11,7 @@ One class can perform multiple tasks, there is no question of that, but it's not
 So to get good quality/better output of work, one method should do one task at time.
 
 ## 🧠 See the code and you'll learn:
+
 - What the single responsibility principle is
 - Why the single responsibility principle is important
 - How to use the single responsibility principle
