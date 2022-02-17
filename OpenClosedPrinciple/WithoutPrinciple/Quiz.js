@@ -25,6 +25,8 @@ function PrintQuiz(questions) {
                 break;
         }
 
+        // in code like this, is very easy to make mistakes and mess up the code
+
         console.log('');
     });
 }

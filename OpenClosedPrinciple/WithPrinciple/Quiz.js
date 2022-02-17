@@ -6,6 +6,7 @@ import RangeQuestion from "./RangeQuestion";
 // now this class only does one thing
 
 // and this method only does one thing too
+// also, in code like this, you almost never mess up
 function PrintQuiz(questions) {
     questions.forEach(question => {
         console.log(question.Description);
