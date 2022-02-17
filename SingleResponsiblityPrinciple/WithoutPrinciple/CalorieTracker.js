@@ -1,13 +1,13 @@
 class CalorieTracker {
     constructor(maxCalories) {
-        this.maxCalories = maxCalories;
-        this.currentCalories = 0
+        this.MaxCalories = maxCalories;
+        this.CurrentCalories = 0
     }
 
-    trackCalories(calorie) {
-        this.currentCalories += calorie;
+    TrackCalories(calorie) {
+        this.CurrentCalories += calorie;
 
-        if (this.currentCalories > this.maxCalories) {
+        if (this.CurrentCalories > this.MaxCalories) {
             this.logCalorieSurplus();
         }
     }
@@ -20,6 +20,6 @@ class CalorieTracker {
 }
 
 const calorieTracker = new CalorieTracker(2000);
-calorieTracker.trackCalories(500);
-calorieTracker.trackCalories(1000);
-calorieTracker.trackCalories(700);
+calorieTracker.TrackCalories(500);
+calorieTracker.TrackCalories(1000);
+calorieTracker.TrackCalories(700);
