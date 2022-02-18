@@ -40,6 +40,7 @@ Depend upon abstractions, not concretions.
 | Open–Closed | [📄](./OpenClosedPrinciple/README.md) | JS |
 | Liskov substitution | [📄](./LiskovSubstitutionPrinciple/README.md) | JS |
 | Interface segregation | [📄](./InterfaceSegregationPrinciple/README.md) | TS |
+| Dependency inversion | [📄](./DependencyInversionPrinciple/README.md) | JS |
 
 # Technologies
 
