@@ -72,11 +72,13 @@ Go to the project directory
   cd solid-principles
 ```
 
-Open in Visual Studio Code
+## Contribute
 
-```bash
-  code .
-```
+Feel free to contribute and fix something that is wrong or could be better!
+
+To do so please create a new branch, change or add what you want and then create a Pull Request to branch `main` and add me as reviewer.
+
+Thanks 🙏
 
 # License
 
