@@ -39,7 +39,7 @@ Depend upon abstractions, not concretions.
 | Single responsibility | [📄](./SingleResponsiblityPrinciple/README.md) | JS |
 | Open–Closed | [📄](./OpenClosedPrinciple/README.md) | JS |
 | Liskov substitution | [📄](./LiskovSubstitutionPrinciple/README.md) | JS |
-| Interface segregation | [📄](./InterfaceSegregationPrinciple/README.md) | TS |
+| Interface segregation | [📄](./InterfaceSegregationPrinciple/README.md) | JS, TS |
 | Dependency inversion | [📄](./DependencyInversionPrinciple/README.md) | JS |
 
 # Technologies
