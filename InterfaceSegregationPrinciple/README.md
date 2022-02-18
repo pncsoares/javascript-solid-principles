@@ -18,4 +18,5 @@ This means that the code should only have one single reason to change. If there 
 
 ## Disadvantages
 
-- 
+- You may need to refactor a lot of things
+- Cost of refactor

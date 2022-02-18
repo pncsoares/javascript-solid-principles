@@ -22,3 +22,5 @@ This essentially means that a class is interchangeable with its subclasses.
 ## Disadvantages
 
 - Sometimes we need to update base class in order to support new extension
+- You may need to refactor a lot of things
+- Cost of refactor
