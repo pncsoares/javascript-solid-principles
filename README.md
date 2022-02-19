@@ -74,7 +74,7 @@ Go to the project directory
 
 ## Contribute
 
-Feel free to contribute and fix something that is wrong or could be better!
+Feel free to contribute and fix something that is wrong or could be better! Issues and pull requests are welcome.
 
 To do so please create a new branch, change or add what you want and then create a Pull Request to branch `main` and add me as reviewer.
 
