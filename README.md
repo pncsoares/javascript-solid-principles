@@ -1,6 +1,6 @@
 # SOLID principles
 
-> This repository contains the SOLID principles details and code examples written in various programming languages.
+> This repository contains the SOLID principles details and code examples written in JavaScript and Typescript.
 
 ## Definition
 
@@ -48,7 +48,6 @@ Depend upon abstractions, not concretions.
 | -- | -- | -- |
 | JavaScript | JS | [📎](https://www.javascript.com) | 
 | TypeScript | TS | [📎](https://www.typescriptlang.org/docs/) |
-<!-- | C Sharp | C# | [📎](https://docs.microsoft.com/en-us/dotnet/csharp/) | -->
 
 # Setup
 
@@ -63,13 +62,13 @@ Create and go to the directory where you want to place the repository
 Clone the project
 
 ```bash
-  git clone https://github.com/pncsoares/solid-principles.git
+  git clone https://github.com/pncsoares/javascript-solid-principles.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd solid-principles
+  cd javascript-solid-principles
 ```
 
 ## Contribute
