@@ -34,13 +34,13 @@ Depend upon abstractions, not concretions.
 
 ## Code examples
 
-| Principle | Information | Technologies |
-| -- | -- | -- |
-| Single responsibility | [📄](./SingleResponsiblityPrinciple/README.md) | JS |
-| Open–Closed | [📄](./OpenClosedPrinciple/README.md) | JS |
-| Liskov substitution | [📄](./LiskovSubstitutionPrinciple/README.md) | JS |
-| Interface segregation | [📄](./InterfaceSegregationPrinciple/README.md) | JS, TS |
-| Dependency inversion | [📄](./DependencyInversionPrinciple/README.md) | JS |
+| Principle | Information |
+| -- | -- |
+| Single responsibility | [📄](./SingleResponsiblityPrinciple/README.md) |
+| Open–Closed | [📄](./OpenClosedPrinciple/README.md) |
+| Liskov substitution | [📄](./LiskovSubstitutionPrinciple/README.md) |
+| Interface segregation | [📄](./InterfaceSegregationPrinciple/README.md) |
+| Dependency inversion | [📄](./DependencyInversionPrinciple/README.md) |
 
 # Technologies
 
